@@ -1,0 +1,6 @@
+data/**
+convertors/**
+videos/**
+*.mp4
+__pycache__/**
+*.py[cod]
